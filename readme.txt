@@ -47,6 +47,14 @@ No. Unless you explicitly configure an external service (such as a CDN or SMTP h
 
 Open an issue on the plugin's GitHub repository.
 
+== Third-Party Services ==
+
+This plugin connects to an external SMTP server to deliver WordPress transactional emails when you configure SMTP credentials.
+
+The SMTP host, port, and credentials are configured by you in the plugin settings. Common providers include Gmail SMTP, Amazon SES, Mailgun, Brevo, and any standard SMTP relay. The plugin sends email content (recipient, subject, body) to whichever SMTP server you configure.
+
+No data is sent to any external service unless you explicitly configure SMTP credentials in the plugin settings.
+
 == Changelog ==
 
 = 1.0.0 =

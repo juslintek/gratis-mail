@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Gratis Mail
  * Plugin URI: https://github.com/juslintek/gratis-mail
- * Description: SMTP mailer with encrypted credential storage, a test-email tool, and transactional email logging. Replaces WP Mail SMTP ($49/yr).
+ * Description: SMTP mailer with encrypted credential storage, a test-email tool, and transactional email logging.
  * Version: 1.0.0
  * Requires at least: 6.4
  * Requires PHP: 8.1
